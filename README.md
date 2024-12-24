@@ -16,7 +16,7 @@ termcolor library
 
 ### Installation
 Clone the repository:
-git clone https://github.com/feraxrd/Discord-Vanity-URL-Guard.git
+git clone https://github.com/Rago-js/Discord-Vanity-URL-Guard.git
 
 ### Install the required libraries:
 pip install requests colorama termcolor
